@@ -1,6 +1,6 @@
 {
   "name": "normal-jusho",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "TypeScript/JavaScript SDK for the Jusho Japanese address normalization API",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -38,9 +38,9 @@
     "postal-code",
     "japan",
     "jusho",
-    "住所",
-    "正規化",
-    "郵便番号"
+    "\u4f4f\u6240",
+    "\u6b63\u898f\u5316",
+    "\u90f5\u4fbf\u756a\u53f7"
   ],
   "author": "",
   "license": "MIT",
